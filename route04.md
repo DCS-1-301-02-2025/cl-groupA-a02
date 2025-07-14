@@ -6,5 +6,6 @@
 digraph {
     edge [dir=both]
     
+    八王子国際キャンパス -> 自宅[label=自転車]
 }
 ```
